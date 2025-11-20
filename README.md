@@ -1,3 +1,3 @@
 # faryad-demo
 This is a demo repository.  
-Author - Faryad Ali
+Author - Faryad Ali (FTech)
